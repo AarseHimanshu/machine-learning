@@ -13,9 +13,6 @@
 **MENTOR NAME**: NEELA SANTHOSH
 
 # DESCRIPTION 
-Here’s a detailed **GitHub Pages description** for your **Machine Learning Internship Tasks Repository**, spanning 500 lines. It includes an introduction, task breakdown, implementation guides, and more.
-
----
 
 # 🌟 Machine Learning Internship - CODTECH 🚀  
 Welcome to the **Machine Learning Internship Repository**! This repository contains **hands-on tasks** designed to help you gain practical experience in **Machine Learning (ML)** using **Python, Scikit-Learn, TensorFlow, PyTorch, and NLP techniques**.  
@@ -125,52 +122,8 @@ jupyter notebook
 
 ---
 
-# ⚡ Submission Guidelines  
-- ✅ Store all your work-related code and files in this **GitHub repository**  
-- ✅ Maintain **proper comments** in your code for better readability  
-- ✅ Use resources like **YouTube, Google, and ChatGPT** to help you complete tasks efficiently  
-- ✅ Follow the **video guidance** provided in **WhatsApp** while submitting your tasks  
-- ✅ Complete all four tasks and **submit them before the deadline**  
 
----
 
-# 🏅 Certificate Eligibility  
-To earn your **Internship Completion Certificate**, you must:  
-✔️ Complete all **four tasks**  
-✔️ Submit all **Jupyter Notebooks** with deliverables  
-✔️ Maintain **code quality & proper documentation**  
-
----
-
-# 👥 Contributors  
-- **[Your Name]** – ML Engineer & Contributor  
-- **[Mentor's Name]** – Internship Guide  
-- **[Other Contributors]** – Open Source Community  
-
----
-
-# 💡 Future Enhancements  
-🚀 **Additional ML Projects** will be added, including:  
-- Fraud Detection System  
-- Time Series Forecasting  
-- Chatbot using NLP  
-
-📢 Stay tuned for updates!  
-
----
-
-# 📬 Connect With Us  
-For queries, reach out via:  
-📧 **Email:** your-email@example.com  
-🌐 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourname)  
-
----
-
-🔹 **Star this repository ⭐ if you find it useful!**  
-🔹 **Fork it 🔁 to contribute and improve!**  
-🔹 **Happy Coding! 🚀**  
-
----
 
 Let me know if you need modifications! 🚀🔥
 # OUTPUT OF THE TASK
