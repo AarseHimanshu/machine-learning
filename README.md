@@ -15,3 +15,5 @@
 # DESCRIPTION 
 
 # OUTPUT OF THE TASK
+**task 1**
+![Image](https://github.com/user-attachments/assets/a90829a1-10dd-4682-8957-2286d8d1abdb)
