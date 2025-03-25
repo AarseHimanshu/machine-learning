@@ -76,27 +76,6 @@ A **functional model** with performance evaluation on a test dataset.
 
 📜 **Deliverable:**  
 A **Notebook or Web App** showcasing recommendation results and evaluation metrics.  
-
----
-
-# 🎯 How to Use This Repository  
-
-### Step 1: Clone the Repository  
-```bash
-git clone https://github.com/your-username/machine-learning-internship.git
-cd machine-learning-internship
-```
-
-### Step 2: Install Dependencies  
-```bash
-pip install -r requirements.txt
-```
-
-### Step 3: Open Jupyter Notebook  
-```bash
-jupyter notebook
-```
-
 ---
 
 # 🔥 Resources for Learning  
